@@ -13,6 +13,7 @@ supporting languages are:<br/>
 <li>German</li>
 <li>Italian</li>
 <li>Japanese</li>
+<li>Korean</li>
 <li>Polish</li>
 <li>Portuguese</li>
 <li>Russian</li>
