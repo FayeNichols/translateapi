@@ -1,5 +1,5 @@
 # Translate API
-I just develop alternative super easy translation api<br/>alternative of google translate</br>alternative of microsoft bing translate<br/>alternative of yandex translate<br/>alternative of deepl<br/>alternative of crowdin<br/>alternative of transifex<br/>alternative of libertranslate<br>
+I just develop alternative super easy translation api<br/>google translate alternative</br>microsoft bing translate alternative<br/>yandex translate alternative<br/>deepl alternative<br/>crowdin alternative<br/>transifex alternative<br/>libertranslate alternative<br/>
 supporting languages are:<br/>
 <ul><li>Arabic</li>
 <li>Chinese</li>
@@ -16,6 +16,7 @@ supporting languages are:<br/>
 <li>Korean</li>
 <li>Polish</li>
 <li>Portuguese</li>
+<li>Persian</li>
 <li>Russian</li>
 <li>Spanish</li>
 <li>Swedish</li>
