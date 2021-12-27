@@ -20,6 +20,7 @@ supporting languages are:<br/>
 <li>Russian</li>
 <li>Spanish</li>
 <li>Swedish</li>
+<li>Turkish</li>
 </ul>
 For small text perform GET request with lang & txt parameters:<br/>
 https://translate.hirak.site/?lang=en-es&txt=hello%20world%21<br/>
